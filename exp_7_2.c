@@ -1,7 +1,11 @@
 #include <stdio.h>
 
 int main() {
-    
+     /*
+    SHAIKH AWEZ SALLWUDIN
+    CLASS:- COMPS F.Y. DIVISION:- C-3
+    UIN:- 251P050
+    */
     int r, c;
     printf("Enter rows & cols: ");
     scanf("%d %d", &r, &c);
@@ -32,3 +36,4 @@ int main() {
     return 0;
 
 }
+
