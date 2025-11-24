@@ -1,14 +1,7 @@
-/*
-NAME: DESHMUKH SADAT ANWAR AHMAD
-UIN: 251P056
-BRANCH: COMPUTER SCIENCE
-DIC:C
-DATE: 12/09/2023
-PROGRAM NAME: ADDITION OF TWO MATRICES
-*/
 #include <stdio.h>
 
 int main() {
+    
     int r, c;
     printf("Enter rows & cols: ");
     scanf("%d %d", &r, &c);
@@ -37,4 +30,5 @@ int main() {
     }
 
     return 0;
+
 }
